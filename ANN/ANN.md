@@ -1,6 +1,6 @@
 # Artificial Neural Networks
 
-### Note: This page only contains the links for visualizaing the neural networks and how do they work. For more formal mathematical representation refer to course 1 of Deep Learning Specialization by Andrew Ng
+### Note: This page only contains the links for visualizing the neural networks and how do they work. For more formal mathematical representation refer to course 1 of Deep Learning Specialization by Andrew Ng
 
 <br>
 <br>
