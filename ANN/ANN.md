@@ -11,3 +11,5 @@
 - [Linear Transformations in Neural Network](https://atcold.github.io/pytorch-Deep-Learning/en/week01/01-3/) - Yann Lecun's NYU course
 - [Blog on visualization of NN](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) - a beautiful blog post showing what NN actually does
 - [Interactively Explore Networks](https://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html)
+
+- [Backpropagation](https://towardsdatascience.com/learning-backpropagation-from-geoffrey-hinton-619027613f0) - A great article explaining the paper of backpropagation
