@@ -19,3 +19,6 @@
 - [Common Activation Functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
 - [Great blog](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
 - [CS231n Notes](https://cs231n.github.io/neural-networks-1/)
+
+### Variants of RELU
+- [GELU, SELU, ELU, RELU](https://mlfromscratch.com/activation-functions-explained/#/) - a great article explaining in and outs of activation functions
