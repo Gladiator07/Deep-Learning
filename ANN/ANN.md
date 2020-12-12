@@ -21,4 +21,4 @@
 - [CS231n Notes](https://cs231n.github.io/neural-networks-1/)
 
 ### Variants of RELU
-- [GELU, SELU, ELU, RELU](https://mlfromscratch.com/activation-functions-explained/#/) - a great article explaining in and outs of activation functions (sigmoid, RELU, ELU, SELU, GELU)
+- [GELU, SELU, ELU, RELU](https://mlfromscratch.com/activation-functions-explained/#/) - a great article explaining in and outs of activation functions (sigmoid, RELU, ELU, SELU, GELU)  
