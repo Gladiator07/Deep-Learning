@@ -12,7 +12,7 @@
 - First access the mindmap [here](https://whimsical.com/deep-learning-ATLrXg4dkRLi1ZgyEWnH67).
 - The mindmap is divided into theoritical and practical stuffs.
 - Start learning in order (mindmap have clickable links which will be redirected to this repo corresponding to the topic).
-- Topics having no links associated in the mindmap, be patient it will be updated or you can even open an issue.
+- For topics having no links associated with it in the mindmap, be patient it will be updated or you can even open an issue.
 - Important Papers with their implementation will be added shortly.
 
 <br>
