@@ -2,7 +2,7 @@
 
 ### This repository contains all the resources which I have used to learn Deep Learning. Resources may be blogs, articles, university lectures, handwritten notes and code notebooks.
 
-### Complete resources are in accordance with [this](https://whimsical.com/deep-learning-ATLrXg4dkRLi1ZgyEWnH67) mindmap
+### Complete resources are in accordance with [this](https://whimsical.com/deep-learning-ATLrXg4dkRLi1ZgyEWnH67@VsSo8s35WwAc3CHNajGTpc) mindmap
 
 #### Note: This repo will be updated daily as I learn
 
@@ -21,4 +21,4 @@
 - Don't get overwhelmed by number of topics. Just start one topic and complete it step by step.
 - Code, code, code.
 - Don't ignore theory.
-- Complete [Deep Learning Specialization]https://whimsical.com/deep-learning-ATLrXg4dkRLi1ZgyEWnH67@VsSo8s35WwAc3CHNajGTpc) to get basic understanding of all major fields in Deep Learning. Then after that you can go more in depth from this repository.
+- Complete [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) to get basic understanding of all major fields in Deep Learning. Then after that you can go more in depth from this repository.
