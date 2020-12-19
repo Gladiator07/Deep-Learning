@@ -13,12 +13,3 @@
 - [Interactively Explore Networks](https://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html)
 
 - [Backpropagation](https://towardsdatascience.com/learning-backpropagation-from-geoffrey-hinton-619027613f0) - A great article explaining the paper of backpropagation
-
-
-## Activation Functions
-- [Common Activation Functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
-- [Great blog](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
-- [CS231n Notes](https://cs231n.github.io/neural-networks-1/)
-
-### Variants of RELU
-- [GELU, SELU, ELU, RELU](https://mlfromscratch.com/activation-functions-explained/#/) - a great article explaining in and outs of activation functions (sigmoid, RELU, ELU, SELU, GELU)  
