@@ -4,7 +4,7 @@
 - [Overview of weight initialization techniques](https://towardsdatascience.com/weight-initialization-techniques-in-neural-networks-26c649eb3b78)
 - [Great article](https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79)
 - [Interactive play to experiment with different intialization techniques](https://www.deeplearning.ai/ai-notes/initialization/) - by deeplearning.ai
-
+ - [Mathematical Intuition](https://mmuratarat.github.io/2019-02-25/xavier-glorot-he-weight-init)
 
 
 
